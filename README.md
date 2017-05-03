@@ -1,4 +1,3 @@
 # CMS-STUDY
-My learning materials
-
-The first spet in github.
+1. My learning materials
+2. The first spet in github.
